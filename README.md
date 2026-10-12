@@ -19,12 +19,13 @@
 
 <br />
 
-### 👨‍💻 Developer Profile
+### 👨‍💻 About Me
 
-```yaml
-name: Shanawaz Sakib
-location: Khulna, Bangladesh
-education: B.Sc. in Computer Science and Engineering
-current_stack: [Laravel, PHP, MySQL, React, JavaScript]
-exploring: [Cloud Computing, Advanced Web Development]
-open_to: [Junior Web Developer Roles, Internships, Freelance]
+I am a passionate web developer currently pursuing my B.Sc. in Computer Science and Engineering. I love solving real-world problems and turning ideas into responsive, user-friendly web applications.
+
+Here is a quick overview of my profile:
+*   **🎓 Education:** B.Sc. in Computer Science & Engineering
+*   **📍 Location:** Khulna, Bangladesh
+*   **💻 Tech Stack:** Laravel, PHP, MySQL, React, JavaScript
+*   **🌱 Currently Exploring:** Cloud Computing & Advanced Web Development
+*   **💼 Open to:** Junior Web Developer Roles, Internships, Freelance
