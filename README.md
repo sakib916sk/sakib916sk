@@ -80,6 +80,11 @@ I am a passionate web developer currently pursuing my B.Sc. in Computer Science 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakib916sk&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+### 💻 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib916sk&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p>
+
 ---
 
 <p align="center">
