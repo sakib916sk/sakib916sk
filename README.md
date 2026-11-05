@@ -64,7 +64,7 @@ I am a passionate web developer currently pursuing my B.Sc. in Computer Science 
     <td width="70%" valign="top">
       <h3>🤖 <a href="https://github.com/sakib916sk/line-follower-robot-arduino">Autonomous Line Follower Robot</a></h3>
       <p>A 2-wheel robot car that follows a black line completely on its own. It uses IR sensors for line detection, PWM speed control through an L298N driver, and a line-memory feature that helps it recover when it loses the track. Includes two firmware versions: simple 5-sensor logic and 8-sensor proportional control.</p>
-      <code>Arduino Uno</code> <code>C++</code> <code>IR Sensors</code> <code>L298N</code> <code>PWM</code> <code>Robotics</code>
+      <img src="https://img.shields.io/badge/Arduino_Uno-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino Uno" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/IR_Sensors-475569?style=flat-square" alt="IR Sensors" /> <img src="https://img.shields.io/badge/L298N-475569?style=flat-square" alt="L298N" /> <img src="https://img.shields.io/badge/PWM-475569?style=flat-square" alt="PWM" /> <img src="https://img.shields.io/badge/Robotics-0ea5e9?style=flat-square" alt="Robotics" />
     </td>
   </tr>
 </table>
@@ -79,13 +79,13 @@ I am a passionate web developer currently pursuing my B.Sc. in Computer Science 
       <a href="https://github.com/sakib916sk/AI-Smart-Campus-System"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/smart-campus.png" alt="AI Smart Campus System" width="100%" /></a>
       <h4>🧠 <a href="https://github.com/sakib916sk/AI-Smart-Campus-System">AI Smart Campus System</a></h4>
       <p>AI-powered campus and student-success platform for smarter academic support and services.</p>
-      <code>Laravel</code> <code>Vue</code> <code>MySQL</code> <code>REST API</code> <code>AI</code>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/REST_API-0ea5e9?style=flat-square" alt="REST API" /> <img src="https://img.shields.io/badge/AI-7c3aed?style=flat-square" alt="AI" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/sakib916sk/AI-Medical-Diagnosis-System"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/medical-diagnosis.png" alt="AI Medical Diagnosis System" width="100%" /></a>
       <h4>🩺 <a href="https://github.com/sakib916sk/AI-Medical-Diagnosis-System">AI Medical Diagnosis System</a></h4>
       <p>Manage patient records, run a machine-learning symptom checker, and keep medical reports in one place.</p>
-      <code>Machine Learning</code> <code>Web App</code>
+      <img src="https://img.shields.io/badge/Machine_Learning-7c3aed?style=flat-square" alt="Machine Learning" /> <img src="https://img.shields.io/badge/Web_App-0ea5e9?style=flat-square" alt="Web App" />
     </td>
   </tr>
   <tr>
@@ -93,13 +93,13 @@ I am a passionate web developer currently pursuing my B.Sc. in Computer Science 
       <a href="https://github.com/sakib916sk/Smart-Gym-Management-System"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/gym-management.png" alt="Smart Gym Management" width="100%" /></a>
       <h4>🏋️ <a href="https://github.com/sakib916sk/Smart-Gym-Management-System">Smart Gym Management</a></h4>
       <p>Web-based gym management system for memberships, billing, and class scheduling.</p>
-      <code>Laravel</code> <code>Blade</code> <code>MySQL</code>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Blade" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/sakib916sk/online_voting"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/election-system.png" alt="CR & ACR Election System" width="100%" /></a>
       <h4>🗳️ <a href="https://github.com/sakib916sk/online_voting">CR & ACR Election System</a></h4>
       <p>Secure online voting platform for Class Representative elections with real-time results.</p>
-      <code>PHP</code> <code>MySQL</code> <code>HTML/CSS</code>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
     </td>
   </tr>
   <tr>
@@ -107,13 +107,13 @@ I am a passionate web developer currently pursuing my B.Sc. in Computer Science 
       <a href="https://github.com/mahamud894/AI_Resume_Analyzer"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/resume-analyzer.png" alt="AI Resume Analyzer (Resumind)" width="100%" /></a>
       <h4>📄 <a href="https://github.com/mahamud894/AI_Resume_Analyzer">AI Resume Analyzer (Resumind)</a></h4>
       <p>AI-based resume parsing, rating and feedback tool. Collaborative project.</p>
-      <code>AI</code> <code>Web App</code>
+      <img src="https://img.shields.io/badge/AI-7c3aed?style=flat-square" alt="AI" /> <img src="https://img.shields.io/badge/Web_App-0ea5e9?style=flat-square" alt="Web App" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/sakib916sk/Lawn-Care-Website"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/lawn-care.png" alt="Lawn Care Website" width="100%" /></a>
       <h4>🌿 <a href="https://github.com/sakib916sk/Lawn-Care-Website">Lawn Care Website</a></h4>
       <p>Responsive landing page for lawn care and gardening services.</p>
-      <code>HTML</code> <code>CSS</code> <code>Responsive</code>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/Responsive-0ea5e9?style=flat-square" alt="Responsive" />
     </td>
   </tr>
 </table>
