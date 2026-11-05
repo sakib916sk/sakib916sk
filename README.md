@@ -76,10 +76,38 @@ I am a passionate web developer currently pursuing my B.Sc. in Computer Science 
 <table align="center" border="0" cellpadding="15" cellspacing="10" width="100%">
   <tr>
     <td width="50%" valign="top">
+      <a href="https://github.com/sakib916sk/Smart-Gym-Management-System"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/gym-management.png" alt="Smart Gym Management" width="100%" /></a>
+      <h4>🏋️ <a href="https://github.com/sakib916sk/Smart-Gym-Management-System">Smart Gym Management</a></h4>
+      <p>Web-based gym management system for memberships, billing, and class scheduling.</p>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Blade" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/mahamud894/AI_Resume_Analyzer"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/resume-analyzer.png" alt="AI Resume Analyzer (Resumind)" width="100%" /></a>
+      <h4>📄 <a href="https://github.com/mahamud894/AI_Resume_Analyzer">AI Resume Analyzer (Resumind)</a></h4>
+      <p>AI-based resume parsing, rating and feedback tool. Collaborative project.</p>
+      <img src="https://img.shields.io/badge/AI-7c3aed?style=flat-square" alt="AI" /> <img src="https://img.shields.io/badge/Web_App-0ea5e9?style=flat-square" alt="Web App" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/sakib916sk/Smart-Cricket-Scorer"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/cricket-scorer.png" alt="Cricket Crushers" width="100%" /></a>
+      <h4>🏏 <a href="https://github.com/sakib916sk/Smart-Cricket-Scorer">Cricket Crushers - Smart Cricket Scoring</a></h4>
+      <p>Live cricket scoring and analysis app with voice commentary, toss tracking and quick team and overs setup.</p>
+      <img src="https://img.shields.io/badge/Live_Scoring-0ea5e9?style=flat-square" alt="Live Scoring" /> <img src="https://img.shields.io/badge/Voice_Commentary-7c3aed?style=flat-square" alt="Voice Commentary" /> <img src="https://img.shields.io/badge/Mobile_App-0ea5e9?style=flat-square" alt="Mobile App" />
+    </td>
+    <td width="50%" valign="top">
       <a href="https://github.com/sakib916sk/AI-Smart-Campus-System"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/smart-campus.png" alt="AI Smart Campus System" width="100%" /></a>
       <h4>🧠 <a href="https://github.com/sakib916sk/AI-Smart-Campus-System">AI Smart Campus System</a></h4>
       <p>AI-powered campus and student-success platform for smarter academic support and services.</p>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/REST_API-0ea5e9?style=flat-square" alt="REST API" /> <img src="https://img.shields.io/badge/AI-7c3aed?style=flat-square" alt="AI" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/sakib916sk/Lawn-Care-Website"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/lawn-care.png" alt="Lawn Care Website" width="100%" /></a>
+      <h4>🌿 <a href="https://github.com/sakib916sk/Lawn-Care-Website">Lawn Care Website</a></h4>
+      <p>Responsive landing page for lawn care and gardening services.</p>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/Responsive-0ea5e9?style=flat-square" alt="Responsive" />
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/sakib916sk/AI-Medical-Diagnosis-System"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/medical-diagnosis.png" alt="AI Medical Diagnosis System" width="100%" /></a>
@@ -89,31 +117,11 @@ I am a passionate web developer currently pursuing my B.Sc. in Computer Science 
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/sakib916sk/Smart-Gym-Management-System"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/gym-management.png" alt="Smart Gym Management" width="100%" /></a>
-      <h4>🏋️ <a href="https://github.com/sakib916sk/Smart-Gym-Management-System">Smart Gym Management</a></h4>
-      <p>Web-based gym management system for memberships, billing, and class scheduling.</p>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" /> <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Blade" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/sakib916sk/online_voting"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/election-system.png" alt="CR & ACR Election System" width="100%" /></a>
+    <td colspan="2" align="center" valign="top">
+      <a href="https://github.com/sakib916sk/online_voting"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/election-system.png" alt="CR & ACR Election System" width="50%" /></a>
       <h4>🗳️ <a href="https://github.com/sakib916sk/online_voting">CR & ACR Election System</a></h4>
       <p>Secure online voting platform for Class Representative elections with real-time results.</p>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/mahamud894/AI_Resume_Analyzer"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/resume-analyzer.png" alt="AI Resume Analyzer (Resumind)" width="100%" /></a>
-      <h4>📄 <a href="https://github.com/mahamud894/AI_Resume_Analyzer">AI Resume Analyzer (Resumind)</a></h4>
-      <p>AI-based resume parsing, rating and feedback tool. Collaborative project.</p>
-      <img src="https://img.shields.io/badge/AI-7c3aed?style=flat-square" alt="AI" /> <img src="https://img.shields.io/badge/Web_App-0ea5e9?style=flat-square" alt="Web App" />
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/sakib916sk/Lawn-Care-Website"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/lawn-care.png" alt="Lawn Care Website" width="100%" /></a>
-      <h4>🌿 <a href="https://github.com/sakib916sk/Lawn-Care-Website">Lawn Care Website</a></h4>
-      <p>Responsive landing page for lawn care and gardening services.</p>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /> <img src="https://img.shields.io/badge/Responsive-0ea5e9?style=flat-square" alt="Responsive" />
     </td>
   </tr>
 </table>
@@ -124,7 +132,6 @@ I am a passionate web developer currently pursuing my B.Sc. in Computer Science 
 
 *   **[Securex](https://github.com/sakib916sk/Securex):** CCTV services, bookings, customer management, and a complete administrative dashboard.
 *   **[Logistica](https://github.com/sakib916sk/Logistica):** A complete logistics and courier management web app.
-*   **[Smart-Cricket-Scorer](https://github.com/sakib916sk/Smart-Cricket-Scorer):** Real-time cricket scoring and stats tracking application.
 *   **[Arduino-Radar-System](https://github.com/sakib916sk/Arduino-Radar-System):** Ultrasonic sensor-based radar system visualized via Processing.
 *   **[DBMS-Project](https://github.com/sakib916sk/DBMS-Project):** Comprehensive database design with complex SQL queries.
 
@@ -142,8 +149,25 @@ I am a passionate web developer currently pursuing my B.Sc. in Computer Science 
   <img src="https://streak-stats.demolab.com/?user=sakib916sk&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
+<!-- Animated line follower robot (robot-track.svg) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/robot-track.svg" alt="Animated line follower robot" width="100%" />
+</p>
+
+---
+
+### 🌱 Currently Leveling Up
+
+*   ☁️ Cloud Computing fundamentals
+*   🧱 Advanced web development with clean, reusable architecture
+*   🤖 Embedded systems and robotics with Arduino
+
 ---
 
 <p align="center">
   <i>"Always learning, always building."</i>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer&animation=twinkling" alt="footer" width="100%" />
+</div>
