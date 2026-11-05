@@ -58,7 +58,7 @@ I am a passionate web developer currently pursuing my B.Sc. in Computer Science 
   <tr>
     <td width="30%" align="center" valign="middle">
       <a href="https://github.com/sakib916sk/line-follower-robot-arduino">
-        <img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/assets/line-follower-demo.gif" alt="Line follower robot demo" width="200" />
+        <img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/line-follower-demo.gif" alt="Line follower robot demo" width="200" />
       </a>
     </td>
     <td width="70%" valign="top">
@@ -76,13 +76,13 @@ I am a passionate web developer currently pursuing my B.Sc. in Computer Science 
 <table align="center" border="0" cellpadding="15" cellspacing="10" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/sakib916sk/AI-Smart-Campus-System"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/assets/smart-campus.png" alt="AI Smart Campus System" width="100%" /></a>
+      <a href="https://github.com/sakib916sk/AI-Smart-Campus-System"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/smart-campus.png" alt="AI Smart Campus System" width="100%" /></a>
       <h4>🧠 <a href="https://github.com/sakib916sk/AI-Smart-Campus-System">AI Smart Campus System</a></h4>
       <p>AI-powered campus and student-success platform for smarter academic support and services.</p>
       <code>Laravel</code> <code>Vue</code> <code>MySQL</code> <code>REST API</code> <code>AI</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/sakib916sk/AI-Medical-Diagnosis-System"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/assets/medical-diagnosis.png" alt="AI Medical Diagnosis System" width="100%" /></a>
+      <a href="https://github.com/sakib916sk/AI-Medical-Diagnosis-System"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/medical-diagnosis.png" alt="AI Medical Diagnosis System" width="100%" /></a>
       <h4>🩺 <a href="https://github.com/sakib916sk/AI-Medical-Diagnosis-System">AI Medical Diagnosis System</a></h4>
       <p>Manage patient records, run a machine-learning symptom checker, and keep medical reports in one place.</p>
       <code>Machine Learning</code> <code>Web App</code>
@@ -90,13 +90,13 @@ I am a passionate web developer currently pursuing my B.Sc. in Computer Science 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/sakib916sk/Smart-Gym-Management-System"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/assets/gym-management.png" alt="Smart Gym Management" width="100%" /></a>
+      <a href="https://github.com/sakib916sk/Smart-Gym-Management-System"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/gym-management.png" alt="Smart Gym Management" width="100%" /></a>
       <h4>🏋️ <a href="https://github.com/sakib916sk/Smart-Gym-Management-System">Smart Gym Management</a></h4>
       <p>Web-based gym management system for memberships, billing, and class scheduling.</p>
       <code>Laravel</code> <code>Blade</code> <code>MySQL</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/sakib916sk/online_voting"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/assets/election-system.png" alt="CR & ACR Election System" width="100%" /></a>
+      <a href="https://github.com/sakib916sk/online_voting"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/election-system.png" alt="CR & ACR Election System" width="100%" /></a>
       <h4>🗳️ <a href="https://github.com/sakib916sk/online_voting">CR & ACR Election System</a></h4>
       <p>Secure online voting platform for Class Representative elections with real-time results.</p>
       <code>PHP</code> <code>MySQL</code> <code>HTML/CSS</code>
@@ -104,13 +104,13 @@ I am a passionate web developer currently pursuing my B.Sc. in Computer Science 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/mahamud894/AI_Resume_Analyzer"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/assets/resume-analyzer.png" alt="AI Resume Analyzer (Resumind)" width="100%" /></a>
+      <a href="https://github.com/mahamud894/AI_Resume_Analyzer"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/resume-analyzer.png" alt="AI Resume Analyzer (Resumind)" width="100%" /></a>
       <h4>📄 <a href="https://github.com/mahamud894/AI_Resume_Analyzer">AI Resume Analyzer (Resumind)</a></h4>
       <p>AI-based resume parsing, rating and feedback tool. Collaborative project.</p>
       <code>AI</code> <code>Web App</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/sakib916sk/Lawn-Care-Website"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/assets/lawn-care.png" alt="Lawn Care Website" width="100%" /></a>
+      <a href="https://github.com/sakib916sk/Lawn-Care-Website"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/lawn-care.png" alt="Lawn Care Website" width="100%" /></a>
       <h4>🌿 <a href="https://github.com/sakib916sk/Lawn-Care-Website">Lawn Care Website</a></h4>
       <p>Responsive landing page for lawn care and gardening services.</p>
       <code>HTML</code> <code>CSS</code> <code>Responsive</code>
