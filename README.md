@@ -116,12 +116,20 @@ I am a passionate web developer currently pursuing my B.Sc. in Computer Science 
       <img src="https://img.shields.io/badge/Machine_Learning-7c3aed?style=flat-square" alt="Machine Learning" /> <img src="https://img.shields.io/badge/Web_App-0ea5e9?style=flat-square" alt="Web App" />
     </td>
   </tr>
+  <!-- নতুন রো: Voting System এবং Smart Home IoT -->
   <tr>
-    <td colspan="2" align="center" valign="top">
-      <a href="https://github.com/sakib916sk/online_voting"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/election-system.png" alt="CR & ACR Election System" width="50%" /></a>
+    <td width="50%" valign="top">
+      <a href="https://github.com/sakib916sk/online_voting"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/election-system.png" alt="CR & ACR Election System" width="100%" /></a>
       <h4>🗳️ <a href="https://github.com/sakib916sk/online_voting">CR & ACR Election System</a></h4>
       <p>Secure online voting platform for Class Representative elections with real-time results.</p>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+    </td>
+    <td width="50%" valign="top">
+      <!-- আপনার নতুন Smart Home IoT প্রজেক্ট -->
+      <a href="https://github.com/sakib916sk/smart-home-iot-simulation"><img src="https://raw.githubusercontent.com/sakib916sk/sakib916sk/main/project-smarthome.png" alt="Smart Home IoT Network" width="100%" /></a>
+      <h4>🌐 <a href="https://github.com/sakib916sk/smart-home-iot-simulation">Smart Home IoT Network Simulation</a></h4>
+      <p>Smart home network built in Cisco Packet Tracer with IoT devices connected via wireless router, switch, and server.</p>
+      <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" /> <img src="https://img.shields.io/badge/IoT-FF6F00?style=flat-square&logo=internetofthings&logoColor=white" alt="IoT" /> <img src="https://img.shields.io/badge/Networking-4CAF50?style=flat-square&logo=cisco&logoColor=white" alt="Networking" />
     </td>
   </tr>
 </table>
